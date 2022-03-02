@@ -1,0 +1,13 @@
+{
+  "name": "@vkr/app-auth",
+  "version": "0.0.1",
+  "description": "VKR Front application auth logic",
+  "main": "index.js",
+  "private": false,
+  "peerDependencies": {
+    "react": "*",
+    "ramda": "*",
+    "reselect": "*",
+    "react-redux": "*"
+  }
+}
